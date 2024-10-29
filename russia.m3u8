@@ -1,7 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.000000,
 https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXT-X-ENDLIST
